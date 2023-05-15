@@ -22,3 +22,6 @@ Here a some:
   - [Storage contract with Hardhat, WAGMI and Next.js](https://github.com/Eyon42/KoD-Fullstack-Demo)
   - [More advanced page with NFT collection](https://github.com/Eyon42/W3M-bootcamp-ejemplo)
 - [AI, uses and integrations](https://eyon.notion.site/Materiales-Charla-AI-7b236f0f6485431fb2ed87bfc2fa4f1e)
+
+## Favourite Pizza Topping
+Napolitan
