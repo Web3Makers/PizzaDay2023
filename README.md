@@ -2,6 +2,8 @@
 
 Juntada para el PizzaDay 2023 en Mendoza. Domingo 21 de mayo a a las 21:00
 
+Lugar: A definir. El Botellón como candidato
+
 La idea es generar un espacio solo para devs para que podamos compartir conocimientos y experiencias.
 
 ## Como participar:
