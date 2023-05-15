@@ -13,3 +13,7 @@ Soy ingeniero electromecanico, me dedico al desarrollo de reguladores para turbi
 * Uso del algoritmo KNN para detectar tu tipo de alfajor
 * Como hacer una radio virtual 24/7 al estilo de la chica LO-FI
 * Conceptos de programacion de PLCs
+
+# Contacto
+* igna97@gmail.com
+* [Linkedin](https://www.linkedin.com/in/ignacio-perez-burgos-ingeniero/)
