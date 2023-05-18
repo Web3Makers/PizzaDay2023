@@ -16,5 +16,5 @@ Mis futuros sueños seria realizar aplicaciones que Ofrezcan  pagos en criptomon
 mas detalles sobre mi background : 
 - [Mi Resume ](https://bit.ly/35FAz00)
  
-[linkedin](https://www.linkedin.com/in/sebastian-esteban-1a186331/)
+- [Mi linkedin](https://www.linkedin.com/in/sebastian-esteban-1a186331/)
 
